@@ -23,7 +23,7 @@ select {
 .btn {
   color: #fff;
   background: #f4796c;
-  font-weight: 700;
+  font-weight: 800;
   text-align: center;
   text-decoration: none;
   border: 0;
@@ -32,7 +32,7 @@ select {
   padding: 12px 35px;
   display: inline-block;
   transform: skew(-21deg);
-  position: relative; /* z-index ishlashi uchun kerak */
+  position: relative; 
   z-index: 2;
 }
 
